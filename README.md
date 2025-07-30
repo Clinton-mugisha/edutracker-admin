@@ -105,7 +105,7 @@ edutracker/
 #### 1. **Clone & Setup Project**
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone git@github.com:Clinton-mugisha/edutracker-admin.git
 cd edutracker
 
 # Install dependencies
